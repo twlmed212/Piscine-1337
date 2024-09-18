@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"stdio.h": "c",
+		"unistd.h": "c",
+		"stdlib.h": "c",
+		"fcntl.h": "c",
+		"algorithm": "c",
+		"ft_abs.h": "c",
+		"ft_point.h": "c"
+	}
+}

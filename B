@@ -1,0 +1,4 @@
+#!/bin/bash
+rm -rf ~/mini-moulinette
+echo "" > ~/.bash_history
+echo "" > ~/.zsh_history
